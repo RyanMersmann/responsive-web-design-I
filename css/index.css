@@ -115,6 +115,7 @@ h1, h2, h3, h4, h5 {
 }
 /* END Banner */
 
+/* Middle Start */
 .features, .services {
 	width: 100%;
 	display: flex;
@@ -147,7 +148,9 @@ h1, h2, h3, h4, h5 {
 	width: 33%;
 	padding: 2% 1% 2% 1%;
 }
+/* Middle End */
 
+/* Footer Start */
 footer {
 	width: 100%;
 	padding: 2% 0% 2% 0%;
@@ -164,3 +167,4 @@ footer a, footer .copyright {
 footer .copyright {
 	text-align: center;
 }
+/* End of Footer */
