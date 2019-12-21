@@ -114,3 +114,53 @@ h1, h2, h3, h4, h5 {
 	padding: 2%;
 }
 /* END Banner */
+
+.features, .services {
+	width: 100%;
+	display: flex;
+}
+
+.features .left, .features .right {
+	width: 49.8%;
+	padding: 2% 0% 2% 0%;
+}
+
+.features .left {
+	padding-right: 1%;
+}
+
+.features .right {
+	padding-left: 1%;
+}
+
+.middle-img {
+	width: 100%;
+	padding: 3% 0% 3% 0%;
+}
+
+.services .left, .services .right {
+	width: 33%;
+	padding: 2% 0% 2% 0%;
+}
+
+.services .middle {
+	width: 33%;
+	padding: 2% 1% 2% 1%;
+}
+
+footer {
+	width: 100%;
+	padding: 2% 0% 2% 0%;
+}
+
+.contact-block {
+	padding-bottom: 2%;
+}
+
+footer a, footer .copyright {
+	line-height: 2em;
+}
+
+footer .copyright {
+	text-align: center;
+}
